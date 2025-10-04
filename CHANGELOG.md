@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/CloudNationHQ/ac-cn-wam-mcp/compare/v1.1.1...v1.2.0) (2025-10-04)
+
+
+### Features
+
+* overhaul sync and indexing for performance and reliability ([#11](https://github.com/CloudNationHQ/ac-cn-wam-mcp/issues/11)) ([9fd8a4a](https://github.com/CloudNationHQ/ac-cn-wam-mcp/commit/9fd8a4a08e0d5631d32dbf5b0a3973a887927984))
+
 ## [1.1.1](https://github.com/CloudNationHQ/ac-cn-wam-mcp/compare/v1.1.0...v1.1.1) (2025-10-01)
 
 
